@@ -1,0 +1,15 @@
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\bin\Debug\net10.0\Sprint1_Tasks.exe
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\bin\Debug\net10.0\Sprint1_Tasks.deps.json
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\bin\Debug\net10.0\Sprint1_Tasks.runtimeconfig.json
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\bin\Debug\net10.0\Sprint1_Tasks.dll
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\bin\Debug\net10.0\Sprint1_Tasks.pdb
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.AssemblyInfoInputs.cache
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.AssemblyInfo.cs
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.dll
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\refint\Sprint1_Tasks.dll
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.pdb
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_Tasks.genruntimeconfig.cache
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\ref\Sprint1_Tasks.dll
+C:\Users\Rahma\source\repos\Level01CSharpfundmantals\CSharpLevel01\CSharpLevel01\Sprint1.Tasks\obj\Debug\net10.0\Sprint1_.579109D5.Up2Date
